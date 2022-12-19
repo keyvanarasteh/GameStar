@@ -76,7 +76,7 @@ class _HomePageState extends State<HomePage> {
                 SizedBox(
                   height: 20.0,
                 ),
-                Image.network(
+                Image.asset(
                   images[imageindex],
                   height: 200.0,
                   width: 300.0,
