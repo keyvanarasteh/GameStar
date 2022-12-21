@@ -43,25 +43,25 @@
 </p>
 <br>
 <p align="center">
- <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_8.png" width="250" height="500" >
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_8.png" width="250" height="500" > &nbsp; &nbsp; &nbsp;
   
  <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_1.png" width="250" height="500" >
 </p>
 <br>
 <p align="center">
- <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_2.png" width="250" height="500" >
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_2.png" width="250" height="500" > &nbsp; &nbsp; &nbsp;
   
  <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_3.png" width="250" height="500" >
 </p>
 <br>
 <p align="center">
- <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_4.png" width="250" height="500" >
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_4.png" width="250" height="500" > &nbsp; &nbsp; &nbsp;
   
  <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_5.png" width="250" height="500" >
 </p>
 <br>
 <p align="center">
- <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_6.png" width="250" height="500" >
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_6.png" width="250" height="500" > &nbsp; &nbsp; &nbsp;
   
  <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_7.png" width="250" height="500" >
 </p>
