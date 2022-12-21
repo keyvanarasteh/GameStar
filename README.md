@@ -1,35 +1,83 @@
 # GameStar
+<p><h5>Mobil Programlamaya Giriş Final Projesi</h5></p>
+<p><h5>Bilgi Yarışması</h5></p>
 
 
-Developers: 
 
-- Muhammed Safa Akdeniz 212016707
+<br>
+<p>
+ <h2>Developers: </h2>
+</p>
+<br>
+<p align="center">
+ <h3>- Muhammed Safa Akdeniz 212016707</h3>
+</p>
+<br>
+<p align="center">
+ <h2>Supervisor: </h2>
+</p>
+<br>
+<p>
+ <h3>- Keyvan Arasteh</h3>
+</p>
+<br>
+<br>
 
-Supervisor: 
-
-- Keyvan Arasteh
 
 
-Screens: 
+
+
+
+<p>
+ <h3>Screens: </h3>
+</p>
+
 
 ![Screenshot_3](https://user-images.githubusercontent.com/93321546/207388194-7086e6d8-936d-4a0f-8deb-7ed087764d0c.png)
 
 
 
-Şimdiye kadar gelinen proje görselleri:
 
-![Screenshot_1](https://user-images.githubusercontent.com/93321546/208511254-f31b4229-aec8-4373-aeff-05a407c6157b.png)
-![Screenshot_2](https://user-images.githubusercontent.com/93321546/208511260-76acb0d5-d68a-4db5-ac2d-e0cc614d7a4a.png)
-![Screenshot_3](https://user-images.githubusercontent.com/93321546/208511261-b1d4ea55-c8bb-4109-8bc9-9915a31151ba.png)
-![Screenshot_4](https://user-images.githubusercontent.com/93321546/208511266-e3543eca-8c9e-4aa0-9131-4143687d3dd8.png)
-![Screenshot_5](https://user-images.githubusercontent.com/93321546/208511269-c3a1c27d-78fc-4955-9f03-2b7a8c1be721.png)
-![Screenshot_6](https://user-images.githubusercontent.com/93321546/208511273-e332cfeb-c550-43ca-ba3b-4803a3a559ca.png)
-![Screenshot_7](https://user-images.githubusercontent.com/93321546/208511281-665ae831-d378-4dd1-999d-922af3c28604.png)
-![Screenshot_8](https://user-images.githubusercontent.com/93321546/208511285-85a168a9-a387-4c1a-8379-ec43217d88a3.png)
+<p align="center">
+ <h1>Şimdiye kadar gelinen proje görselleri:</h1>
+</p>
+<br>
+<p align="center">
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_8.png" width="250" height="500" >
+  
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_1.png" width="250" height="500" >
+</p>
+<br>
+<p align="center">
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_2.png" width="250" height="500" >
+  
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_3.png" width="250" height="500" >
+</p>
+<br>
+<p align="center">
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_4.png" width="250" height="500" >
+  
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_5.png" width="250" height="500" >
+</p>
+<br>
+<p align="center">
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_6.png" width="250" height="500" >
+  
+ <img  src="https://github.com/keyvanarasteh/GameStar/blob/main/readme_images/Screenshot_7.png" width="250" height="500" >
+</p>
+<br>
+<br>
+<p>
+ <h3>Projeye Eklenmesi Planlanan İçerikler:</h2>
+</p>
+<br>
+<p>
+ <h4>- Responsive</h4>
+ <h4>- Bul beni oyun modu</h4>
+ <h4>- Tahmin et oyun modu</h4>
+ <h4>- Sorular için zamanlayıcı</h4>
+</p>
 
 
-Projeye Eklenmesi Planlanan İçerikler:
-- Responsive
-- Bul beni oyun modu
-- Tahmin et oyun modu
-- Sorular için zamanlayıcı
+
+
