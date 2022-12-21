@@ -1,8 +1,8 @@
 List images = [
-  'images/lion1.jpg',
-  'images/lion2.jpg',
-  'images/lion2.jpg',
-  'images/lion2.jpg',
-  'images/lion2.jpg',
-  'images/lion2.jpg',
+  'images/standart_images/lion1.jpg',
+  'images/standart_images/lion2.jpg',
+  'images/standart_images/lion2.jpg',
+  'images/standart_images/lion2.jpg',
+  'images/standart_images/lion2.jpg',
+  'images/standart_images/lion2.jpg',
 ];

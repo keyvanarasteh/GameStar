@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_final/game_mode_screen.dart';
+import 'package:flutter_final/screens/game_mode_screen.dart';
 import 'package:flutter_final/main.dart';
 
-class StartScreen extends StatelessWidget {
-  const StartScreen({super.key});
+class StartScreenDesktop extends StatelessWidget {
+  const StartScreenDesktop({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -36,7 +36,7 @@ class StartScreen extends StatelessWidget {
                 Container(
                   height: 200,
                   width: 300,
-                  child: Image.asset("images/soru2.jpg"),
+                  child: Image.asset("images/start_score_images/soru2.jpg"),
                 ),
                 SizedBox(
                   height: 30.0,
@@ -118,7 +118,7 @@ class StartScreen extends StatelessWidget {
                             Navigator.push(
                                 context,
                                 MaterialPageRoute(
-                                    builder: (context) => GameModeScreen()));
+                                    builder: (context) => GameMode()));
                           },
                         ),
                       )

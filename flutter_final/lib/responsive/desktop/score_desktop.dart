@@ -1,21 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_final/game_mode_screen.dart';
+import 'package:flutter_final/screens/game_mode_screen.dart';
 import 'package:flutter_final/main.dart';
-import 'package:flutter_final/start_screen.dart';
+import 'package:flutter_final/screens/start_screen.dart';
 
-class ScoreScreen extends StatefulWidget {
+class ScoreScreenDesktop extends StatelessWidget {
+  ScoreScreenDesktop(this.score, {super.key});
   final int score;
+  Color mainColor = Color.fromARGB(255, 3, 3, 151);
 
-  const ScoreScreen(this.score, {Key? key}) : super(key: key);
-
-  @override
-  State<ScoreScreen> createState() => _ScoreScreenState();
-}
-
-class _ScoreScreenState extends State<ScoreScreen> {
-  Color mainColor = Color.fromARGB(255, 35, 35, 36);
   Color secondColor = Color.fromARGB(255, 98, 99, 100);
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -60,7 +53,7 @@ class _ScoreScreenState extends State<ScoreScreen> {
               height: 30.0,
             ),
             Text(
-              "${widget.score}",
+              "$score",
               style: TextStyle(
                 color: Colors.grey[50],
                 fontSize: 50.0,
@@ -72,8 +65,8 @@ class _ScoreScreenState extends State<ScoreScreen> {
             ),
             MaterialButton(
               onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => StartScreen()));
+                Navigator.push(
+                    context, MaterialPageRoute(builder: (context) => Start()));
               },
               elevation: 0.0,
               color: Colors.grey[400],
@@ -85,7 +78,7 @@ class _ScoreScreenState extends State<ScoreScreen> {
             MaterialButton(
               onPressed: () {
                 Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => GameModeScreen()));
+                    MaterialPageRoute(builder: (context) => GameMode()));
               },
               elevation: 0.0,
               color: Colors.grey[300],
@@ -95,5 +88,6 @@ class _ScoreScreenState extends State<ScoreScreen> {
         ),
       ),
     );
+    ;
   }
 }
