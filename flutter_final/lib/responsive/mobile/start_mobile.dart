@@ -72,39 +72,43 @@ class StartScreenMobile extends StatelessWidget {
                               )
                             ],
                           ),
-                          Row(
-                            children: [
-                              Icon(
-                                Icons.arrow_forward_outlined,
-                                color: Colors.grey[100],
-                              ),
-                              SizedBox(
-                                width: 10.0,
-                              ),
-                              Text(
-                                "Her soru 10 puan değerindedir.",
-                                style: TextStyle(
-                                  color: Colors.grey[400],
+                          FittedBox(
+                            child: Row(
+                              children: [
+                                Icon(
+                                  Icons.arrow_forward_outlined,
+                                  color: Colors.grey[100],
                                 ),
-                              ),
-                            ],
+                                SizedBox(
+                                  width: 10.0,
+                                ),
+                                Text(
+                                  "Her soru 10 puan değerindedir.",
+                                  style: TextStyle(
+                                    color: Colors.grey[400],
+                                  ),
+                                ),
+                              ],
+                            ),
                           ),
-                          Row(
-                            children: [
-                              Icon(
-                                Icons.arrow_forward_outlined,
-                                color: Colors.grey[100],
-                              ),
-                              SizedBox(
-                                width: 10.0,
-                              ),
-                              Text(
-                                "İpucu kullanmak soru puanının yarısını eksiltir.",
-                                style: TextStyle(
-                                  color: Colors.grey[400],
+                          FittedBox(
+                            child: Row(
+                              children: [
+                                Icon(
+                                  Icons.arrow_forward_outlined,
+                                  color: Colors.grey[100],
                                 ),
-                              ),
-                            ],
+                                SizedBox(
+                                  width: 10.0,
+                                ),
+                                Text(
+                                  "İpucu kullanmak soru puanının yarısını eksiltir.",
+                                  style: TextStyle(
+                                    color: Colors.grey[400],
+                                  ),
+                                ),
+                              ],
+                            ),
                           ),
                         ],
                       ),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_final/screens/standart_screen.dart';
+import 'package:flutter_final/screens/tahmin_et_screen.dart';
 
 class GameModeScreenDesktop extends StatelessWidget {
   const GameModeScreenDesktop({super.key});
@@ -97,7 +98,7 @@ class GameModeScreenDesktop extends StatelessWidget {
                   ),
                   onPressed: () {
                     Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => Standart()));
+                        MaterialPageRoute(builder: (context) => TahminEt()));
                   },
                   child: Container(
                     child: Padding(
@@ -118,7 +119,7 @@ class GameModeScreenDesktop extends StatelessWidget {
                               width: 10,
                             ),
                             Text(
-                              "Mode 10 sorudan oluşmaktadır.",
+                              "Mode içerisinde 0-100 arasında bir sayı tutulmaktadır.",
                               style: TextStyle(color: Colors.grey[800]),
                             ),
                           ]),
@@ -131,7 +132,7 @@ class GameModeScreenDesktop extends StatelessWidget {
                               width: 7,
                             ),
                             Text(
-                              "İpucu kulklanmak 5 puan kaybına sebep olur",
+                              "Oyuncudan verilen ipuclarıyla belirlenen hak sayısı içerisinde tahmin etmesi istenir.",
                               style: TextStyle(color: Colors.grey[800]),
                             ),
                           ]),
@@ -144,7 +145,7 @@ class GameModeScreenDesktop extends StatelessWidget {
                               width: 10,
                             ),
                             Text(
-                              "Her soruda 4 şık bulunmaktadır",
+                              "3 tahmin hakkı bulunmaktadır",
                               style: TextStyle(color: Colors.grey[800]),
                             ),
                           ]),
