@@ -54,6 +54,10 @@ class _TahminDesktopState extends State<TahminDesktop> {
                 "Yardım : $yonlendirme",
                 style: TextStyle(color: secondColor, fontSize: 25),
               ),
+              Text(
+                "1-100 arasında tutulan sayıyı tahmin ediniz",
+                style: TextStyle(color: secondColor, fontSize: 25),
+              ),
               SizedBox(
                 height: 30.0,
               ),
