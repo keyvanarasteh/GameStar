@@ -6,7 +6,7 @@ import 'package:flutter_final/screens/start_screen.dart';
 class ScoreScreenDesktop extends StatelessWidget {
   ScoreScreenDesktop(this.score, {super.key});
   final int score;
-  Color mainColor = Color.fromARGB(255, 3, 3, 151);
+  Color mainColor = Color.fromARGB(255, 35, 35, 36);
 
   Color secondColor = Color.fromARGB(255, 98, 99, 100);
   @override
