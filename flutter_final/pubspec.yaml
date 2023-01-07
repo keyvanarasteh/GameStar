@@ -66,6 +66,10 @@ flutter:
    - images/start_score_images/soru2.jpg
    - images/standart_images/lion1.jpg
    - images/standart_images/lion2.jpg
+   - images/standart_images/soru2.jpg
+   - images/standart_images/soru3.jpg
+   - images/standart_images/soru4.jpg
+   - images/standart_images/soru5.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

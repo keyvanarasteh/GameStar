@@ -1,8 +1,7 @@
 List tips = [
-  "İpucu 1",
-  "İpucu 2",
-  "İpucu 3",
-  "İpucu 4",
-  "İpucu 5",
-  "İpucu 6",
+  "Filmde teselli etmek amacıyla söylenmiştir",
+  "Hobbit film serisi ve King Kong filmininde yönetmenidir",
+  "Cüceler için 7 yüzük yapılmıştır",
+  "Fight Club(Dövüş Kulübü) filmiyle aynı yıl çıkmıştır",
+  "Matrix kavramından 'Gerçeğin Çölü' olarak bahsedilir",
 ];

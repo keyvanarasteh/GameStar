@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_final/Work%20Process/tahmin_et_sonuc.dart';
+import 'package:flutter_final/responsive/desktop/tahmin_et_sonuc.dart';
 
 class TahminDesktop extends StatefulWidget {
   const TahminDesktop({super.key});
@@ -28,8 +28,9 @@ class _TahminDesktopState extends State<TahminDesktop> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        backgroundColor: Colors.grey[350],
+        backgroundColor: Colors.blueGrey[700],
         appBar: AppBar(
+          backgroundColor: Colors.blueGrey[900],
           title: Text("Tahmin Mode"),
         ),
         body: Center(
@@ -38,25 +39,25 @@ class _TahminDesktopState extends State<TahminDesktop> {
             children: [
               Text(
                 "Tahmin Moduna Hoşgeldiniz",
-                style: TextStyle(color: mainColor, fontSize: 36),
+                style: TextStyle(color: Colors.black, fontSize: 36),
               ),
               SizedBox(
                 height: 30.0,
               ),
               Text(
                 "Kalan hak : $kalanSayi",
-                style: TextStyle(color: mainColor, fontSize: 25),
+                style: TextStyle(color: Colors.black, fontSize: 25),
               ),
               SizedBox(
                 height: 30.0,
               ),
               Text(
                 "Yardım : $yonlendirme",
-                style: TextStyle(color: secondColor, fontSize: 25),
+                style: TextStyle(color: Colors.black, fontSize: 25),
               ),
               Text(
                 "1-100 arasında tutulan sayıyı tahmin ediniz",
-                style: TextStyle(color: secondColor, fontSize: 25),
+                style: TextStyle(color: Colors.black, fontSize: 25),
               ),
               SizedBox(
                 height: 30.0,

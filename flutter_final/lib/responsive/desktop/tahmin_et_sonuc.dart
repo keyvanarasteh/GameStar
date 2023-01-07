@@ -13,8 +13,9 @@ class _TahminSonucState extends State<TahminSonuc> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        backgroundColor: mainColor,
+        backgroundColor: Colors.blueGrey[900],
         appBar: AppBar(
+          backgroundColor: mainColor,
           title: Text("Tahmin Mode"),
         ),
         body: Center(

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_final/Work%20Process/tahmin_et_desktop.dart';
+import 'package:flutter_final/responsive/desktop/tahmin_et_desktop.dart';
 
 class TahminEt extends StatelessWidget {
   const TahminEt({super.key});

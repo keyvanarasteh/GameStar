@@ -3,38 +3,32 @@ import 'package:flutter_final/Type/questions_type.dart';
 List<QuestionFnc> questions = [
   QuestionFnc("Hakuna Matata ne demek ?", {
     "Patates": false,
-    "Domates": false,
-    "Patlıcan": false,
+    "Mutluluk": false,
+    "Hazır olun": false,
     "Hiç Üzülme": true,
   }),
-  QuestionFnc("Hakuna Matata ne demek ?", {
-    "Patates": false,
-    "Domates": false,
-    "Patlıcan": false,
-    "Hiç Üzülme": false,
+  QuestionFnc("Yüzüklerin efendisi filminin yönetmeni kimdir ?", {
+    "Peter Jackson": true,
+    "George Lucas": false,
+    "Christopher Nolan": false,
+    "David Yates": false,
   }),
-  QuestionFnc("Hakuna Matata ne demek ?", {
-    "Patates": false,
-    "Domates": false,
-    "Patlıcan": false,
-    "Hiç Üzülme": false,
+  QuestionFnc("Yüzüklerin efendisi eserinde toplam kaç yüzük yapılmıştır ?", {
+    "19": false,
+    "21": false,
+    "18": false,
+    "20": true,
   }),
-  QuestionFnc("Hakuna Matata ne demek ?", {
-    "Patates": false,
-    "Domates": false,
-    "Patlıcan": false,
-    "Hiç Üzülme": false,
+  QuestionFnc("İlk Matrix filmi kaç yılında vizyona girmiştir ?", {
+    "1997": false,
+    "1999": true,
+    "2000": false,
+    "2001": false,
   }),
-  QuestionFnc("Hakuna Matata ne demek ?", {
-    "Patates": false,
-    "Domates": false,
-    "Patlıcan": false,
-    "Hiç Üzülme": false,
-  }),
-  QuestionFnc("Hakuna Matata ne demek ?", {
-    "Patates": false,
-    "Domates": false,
-    "Patlıcan": false,
-    "Hiç Üzülme": false,
+  QuestionFnc("Matrix nedir ?", {
+    "Araftır": false,
+    "İnsanların zihinlerinin hapsedildiği sanal bir dünyadır": true,
+    "Gerçek hayatın ta kendisidir": false,
+    "İnsanların öldükten sonra gittikleri yerdir": false,
   }),
 ];
